@@ -44,7 +44,7 @@ export function ProductDetailPage() {
   const referenceVideos = [
     {
       title: 'Preparación',
-      thumbnail: 'https://images.unsplash.com/photo-1556910103-1c02745a872e?w=800&q=80',
+      thumbnail: 'https://file.garden/aJyh9202yxmfpWlA/dLCHEYMEL/cap',
       video: 'https://player.vimeo.com/external/536034177.sd.mp4?s=d9ecf090c29f0ce6f6ed49a5dfb031c5144bdf92&profile_id=165&oauth2_token_id=57447761',
       description: 'Descubre el proceso artesanal y el cariño que ponemos en cada detalle.'
     },
