@@ -36,9 +36,9 @@ export function ProductDetailPage() {
 
   const galleryImages = [
     product.image,
-    'https://images.unsplash.com/photo-1486427944299-d1955d23e34d?w=800&q=80',
-    'https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?w=800&q=80',
-    'https://images.unsplash.com/photo-1509365465994-3e843fde3f55?w=800&q=80'
+    'https://file.garden/aJyh9202yxmfpWlA/dLCHEYMEL/frutos%20secos.png',
+    'https://file.garden/aJyh9202yxmfpWlA/dLCHEYMEL/torta.png',
+    'https://file.garden/aJyh9202yxmfpWlA/dLCHEYMEL/cheescake'
   ];
 
   const referenceVideos = [
