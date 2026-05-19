@@ -14,7 +14,7 @@ export function HeroSection() {
           muted
           playsInline
           className="absolute inset-0 w-full h-full object-cover opacity-40"
-          src="/videos/inicio.mp4"
+          src="https://file.garden/aJyh9202yxmfpWlA/dLCHEYMEL/inicio.mp4"
         />
         <div className="absolute inset-0 bg-gradient-to-t from-[#3E2723] via-transparent to-transparent opacity-80" />
       </div>
