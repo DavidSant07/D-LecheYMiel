@@ -26,7 +26,7 @@ export function RootLayout() {
             <Link to="/" className="flex items-center gap-3">
   <motion.img
     whileHover={{ scale: 1.05 }}
-    src="/fotos/logo.png"
+    src="https://file.garden/aJyh9202yxmfpWlA/dLCHEYMEL/logo.png"
     alt="Leche y Miel"
     className="h-12 w-auto object-contain"
   />
